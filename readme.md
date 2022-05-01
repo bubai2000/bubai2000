@@ -4,12 +4,11 @@ My name is <b>Soumyadip Nayak</b>. Currently I am pursuing B.Sc. hounours in <b>
 <b>Ramakrishna Mission Residential College</b>
 :blush:
 <br><h4>My area of interest include:
-<ul>
+<ul type="circle">
 <li><b>Android Developement</b>
 <li><b>Blockchain Developement</b>
 </ul></h4>
-<br>
-Connect with me on <a href="https://www.linkedin.com/in/soumyadip-nayak-84b628b8"> LinkedIn <img src="https://github.com/bubai2000/bubai2000/blob/main/images.png" height=18px></a>
+
 <p> My contributions so far:</p>
 
 [![Soumyadip's github 
@@ -19,5 +18,7 @@ stats](https://github-readme-stats.vercel.app/api?username=bubai2000&show_icons=
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubai2000&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> Also, I love to travel :earth_asia:, meet new people :heart_eyes:, eat a lot of food :pizza:, and listen to music :musical_note:</p>
+
+Connect with me on <a href="https://www.linkedin.com/in/soumyadip-nayak-84b628b8"> LinkedIn <img src="https://github.com/bubai2000/bubai2000/blob/main/images.png" height=18px></a>
 
 <p> Thanks for visiting my profile! Have a great day 🥰 </p>
