@@ -3,15 +3,14 @@
 My name is <b>Soumyadip Nayak</b>. Currently I am working as SDE at <b><a href="https://www.digitalavenues.com/">Digital Avenues Infotech Private Limited</a><b>. I completed my B.Sc. hounours in <b>Mathematics</b> from
 <b>Ramakrishna Mission Residential College</b>
 :blush:
-<br><h4>My area of specialisations are: 
+<br><h4>My area of expertise include: 
 <ul type="disc">
 <li><b>Web Scraping</b>  
 <li><b>Database Management</b>
 <li><b>Cloud Computing(Specially in GCS)</b>
 <li><b>Linux Shell Scripting</b>
 </ul></h4>
-
-<br><h4>My area of interest include:
+<br><h4>Also my area of interest include:
 <ul type="circle">
 <li><b>Web Developement</b>  
 <li><b>Android Developement</b>
