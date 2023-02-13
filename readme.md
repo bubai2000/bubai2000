@@ -8,7 +8,7 @@ My name is <b>Soumyadip Nayak</b>. Currently I am working as SDE at <b><a href="
 <li><b>Web Scraping</b>  
 <li><b>Database Management</b>
 <li><b>Cloud Computing(Specially in GCP)</b>
-<li><b>Linux Shell Scripting</b>
+<li><b>Linux Server Management</b>
 </ul></h4>
 <br><h4>Also my area of interest include:
 <ul type="circle">
