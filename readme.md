@@ -6,7 +6,7 @@ My name is <b>Soumyadip Nayak</b>. Currently I am working as SDE at <b><a href="
 <br><h4>My area of expertise include: 
 <ul type="disc">
 <li><b>Web Scraping</b>  
-<li><b>Database Management</b>
+<li><b>Database Management(Specially in PostgreSQL)</b>
 <li><b>Cloud Computing(Specially in GCP)</b>
 <li><b>Linux Server Management</b>
 </ul></h4>
