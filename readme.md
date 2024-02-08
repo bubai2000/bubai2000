@@ -5,10 +5,10 @@ My name is <b>Soumyadip Nayak</b>. Currently I am working as Software Engineer. 
 :blush:
 <br><h4>My area of expertise include: 
 <ul type="disc">
-<li><b>Full Stack Web Development(Next.js, CRA, Firebase, Nestjs, Express.js)</b>  
+<li><b>Full Stack Web Development(Next.js, CRA, Nestjs, Express.js)</b>  
 <li><b>Web Scraping(Scrapy, Selenium, BeautifulSoup)</b>  
 <li><b>Database Management(PostgreSQL)</b>
-<li><b>Cloud Computing and DevOps(GCP, AWS)</b>
+<li><b>Cloud Computing and DevOps(GCP, AWS, Firebase, Amplify)</b>
 <li><b>Linux Shell Scripting</b>
 </ul></h4>
 <br><h4>Also my area of interest include:
