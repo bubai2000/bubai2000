@@ -19,11 +19,10 @@ My name is <b>Soumyadip Nayak</b>. Currently I am working as Software Engineer. 
 
 <p> My contributions so far:</p>
 
-[![Soumyadip's github 
-stats](https://github-readme-stats.vercel.app/api?username=bubai2000&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) 
+![My Github 
+stats](https://github-stats-extended.vercel.app/api?username=bubai2000&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=default_repocard)
 
-[![Top 
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubai2000&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=bubai2000&layout=compact&langs_count=10&theme=default_repocard)
 
 <p> Also, I love to travel :earth_asia:, meet new people :heart_eyes:, eat a lot of food :pizza:, and listen to music :musical_note:</p>
 
