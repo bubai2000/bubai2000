@@ -1,0 +1,7 @@
+# Exclude all other files (logs,residuals etc.)
+*
+
+# Include required files
+!.gitignore
+!Resume.tex
+!Resume.pdf

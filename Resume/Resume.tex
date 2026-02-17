@@ -1,0 +1,208 @@
+\documentclass[a4paper,10pt]{article}
+
+% ---------- Packages ----------
+\usepackage[left=0.6in,right=0.6in,top=0.5in,bottom=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{fontspec}
+\usepackage{tabularx}
+\usepackage{xcolor}
+
+% ---------- Font ----------
+\setmainfont{Latin Modern Roman}
+
+% ---------- Section format ----------
+\titleformat{\section}
+{\large\bfseries}
+{}
+{0em}
+{}[\titlerule]
+
+\titlespacing{\section}{0pt}{6pt}{4pt}
+
+% ---------- Inline Skill List ----------
+\newlist{skilllist}{itemize*}{1}
+\setlist[skilllist]{
+label=\textbullet,
+itemjoin=\hspace{0.6em},
+itemjoin*=\hspace{0.6em},
+leftmargin=0pt
+}
+
+% ---------- No paragraph indent ----------
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+
+% ---------- Document ----------
+\begin{document}
+
+% ---------- Header ----------
+
+\begin{center}
+
+{\LARGE \textbf{Soumyadip Nayak}}
+
+\vspace{4pt}
+
+\href{mailto:nayaksoumyadip@gmail.com}{nayaksoumyadip@gmail.com}
+\quad | \quad
+\href{tel:+919635511810}{+919635511810}
+\quad | \quad
+\href{https://github.com/bubai2000}{GitHub}
+
+\end{center}
+
+\vspace{6pt}
+
+% ---------- Two Column Layout ----------
+
+\begin{tabularx}{\textwidth}{@{}p{0.32\textwidth} p{0.68\textwidth}@{}}
+
+% ---------- LEFT COLUMN ----------
+
+\begin{minipage}[t]{\linewidth}
+
+\section*{Skills}
+
+\textbf{Programming}
+
+{\raggedright
+\begin{skilllist}
+\item Python (3+ yrs)
+\item SQL (3+ yrs)
+\item JavaScript (2+ yrs)
+\item Dart (1 yr)
+\item C/C++ (2+ yrs)
+\end{skilllist}
+\par}
+
+\vspace{6pt}
+
+\textbf{Technology/Tools}
+
+{\raggedright
+\begin{skilllist}
+\item AWS
+\item GCP
+\item Git
+\item BitBucket
+\item PostgreSQL
+\item Selenium
+\item Pandas
+\item FastAPI
+\item ReactJS
+\item NodeJS
+\item NestJS
+\item Jira
+\end{skilllist}
+\par}
+
+\vspace{6pt}
+
+% ---------- Education ----------
+
+\section*{Education}
+
+\textbf{Chandigarh University}
+
+Masters in Computer Applications
+
+2025 -- Present
+
+CGPA: 8.8 / 10 (Upto $1^{st}$ Semester)
+
+\vspace{6pt}
+
+\textbf{Ramakrishna Mission \\ Residential College}
+
+B.Sc (Hons.) in Mathematics
+
+Minor: Computer Science, Statistics
+
+2019 -- 2022
+
+CGPA: 7.28 / 10
+
+\vspace{6pt}
+
+% ---------- Languages ----------
+
+\section*{Languages}
+
+English (Professional)
+
+Bengali (Native)
+
+Hindi (Basic)
+
+\end{minipage}
+
+&
+
+% ---------- RIGHT COLUMN ----------
+
+\begin{minipage}[t]{\linewidth}
+
+\section*{Experience}
+
+\textbf{Software Engineer}
+
+\href{https://www.intellirevenue.com}{Intelligent Revenue LLP}
+
+Dec 2023 -- Aug 2025
+
+\begin{itemize}[leftmargin=*]
+
+\item Developed a web scraping bot in \textbf{Python} using \textbf{Selenium} and \textbf{requests} library that fully automated a manual data collection workflow. Used \textbf{mypy} and \textbf{pytest} for code quality and unit testing
+\item Defined ELT logic and generated excel reports from the extracted data using \textbf{Pandas}
+\item Created \textbf{EC2} instances to \begin{enumerate}
+    \item run the scraping workload \item host a SonarQube server
+\end{enumerate}
+\item Created \textbf{RDS} and \textbf{AppRunner} services in AWS using \textbf{Cloudformation} which brings high availability and elasticity
+\item Created functions, views in \textbf{PostgreSQL} database to execute CRUD operations
+\item Created a webhook API using \textbf{FastAPI} and \textbf{SQS} that handles interaction with third party services
+\item Created and maintained Lambda functions in AWS using \textbf{SAM Framework} which streamlined development and testing procedures
+\item Enforced user and network level restrictions in AWS using \textbf{IAM} and \textbf{VPC}
+\item Implemented user authentication and RBAC authorization using \textbf{Auth0}
+\item Created templates for \textbf{BitBucket pipeline} that automated CI/CD workload
+
+\end{itemize}
+
+\vspace{6pt}
+
+\textbf{Software Engineer}
+
+\href{https://www.digitalavenues.com}{Digital Avenues Infotech Pvt. Ltd.}
+
+Oct 2022 -- Dec 2023
+
+\begin{itemize}[leftmargin=*]
+
+\item Developed a web scraping bot in \textbf{Python} using \textbf{Scrapy}, \textbf{Selenium} and \textbf{BeautifulSoup} library to collect data from various websites regularly
+\item Defined ETL logic over the extracted data using \textbf{Pandas}
+\item Created functions, tables, views in \textbf{PostgreSQL} database to execute CRUD operations
+\item Created stored procedures and table functions in \textbf{BigQuery} to execute data warehousing tasks
+\item Created \textbf{Compute Engine}, \textbf{App Engine} and \textbf{Cloud Function} resources to execute scraping, ETL tasks
+\item Developed functionality to interact with \textbf{Google Cloud Natural Language API} to accomplish text classification and translation tasks
+\item Developed prototype text classification model using \textbf{Keras}
+
+\end{itemize}
+
+\vspace{6pt}
+
+\textbf{Software Trainee}
+
+Jul 2022 -- Sep 2022
+
+\begin{itemize}[leftmargin=*]
+
+\item Received training to develop fullstack application using \textbf{PostgreSQL, ExpressJS, AngularJS, NodeJS}
+
+\end{itemize}
+
+\end{minipage}
+
+\end{tabularx}
+
+\end{document}
