@@ -4,7 +4,7 @@
 \usepackage[left=0.6in,right=0.6in,top=0.5in,bottom=0.5in]{geometry}
 \usepackage{enumitem}
 \usepackage{titlesec}
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
 \usepackage{fontspec}
 \usepackage{tabularx}
 \usepackage{xcolor}
@@ -28,6 +28,16 @@ label=\textbullet,
 itemjoin=\hspace{0.6em},
 itemjoin*=\hspace{0.6em},
 leftmargin=0pt
+}
+
+
+% ---------- Experience List ----------
+\newlist{experiencelist}{itemize}{1}
+\setlist[experiencelist]{
+label=\textbullet,
+leftmargin=*,
+nosep,
+after=\vspace{\baselineskip}
 }
 
 % ---------- No paragraph indent ----------
@@ -146,13 +156,13 @@ Hindi (Basic)
 
 \section*{Experience}
 
-\textbf{Software Engineer}
+\textbf{\href{https://www.intellirevenue.com}{Intelligent Revenue LLP}}
 
-\href{https://www.intellirevenue.com}{Intelligent Revenue LLP}
+Software Engineer
 
 Dec 2023 -- Aug 2025
 
-\begin{itemize}[leftmargin=*]
+\begin{experiencelist}
 
 \item Developed a web scraping bot in \textbf{Python} using \textbf{Selenium} and \textbf{requests} library that fully automated a manual data collection workflow. Used \textbf{mypy} and \textbf{pytest} for code quality and unit testing
 \item Defined ELT logic and generated excel reports from the extracted data using \textbf{Pandas}
@@ -167,17 +177,17 @@ Dec 2023 -- Aug 2025
 \item Implemented user authentication and RBAC authorization using \textbf{Auth0}
 \item Created templates for \textbf{BitBucket pipeline} that automated CI/CD workload
 
-\end{itemize}
+\end{experiencelist}
 
 \vspace{6pt}
 
-\textbf{Software Engineer}
+\textbf{\href{https://www.digitalavenues.com}{Digital Avenues Infotech Pvt. Ltd.}}
 
-\href{https://www.digitalavenues.com}{Digital Avenues Infotech Pvt. Ltd.}
+Software Engineer
 
 Oct 2022 -- Dec 2023
 
-\begin{itemize}[leftmargin=*]
+\begin{experiencelist}[after=\vspace{0.2pt}]
 
 \item Developed a web scraping bot in \textbf{Python} using \textbf{Scrapy}, \textbf{Selenium} and \textbf{BeautifulSoup} library to collect data from various websites regularly
 \item Defined ETL logic over the extracted data using \textbf{Pandas}
@@ -187,19 +197,19 @@ Oct 2022 -- Dec 2023
 \item Developed functionality to interact with \textbf{Google Cloud Natural Language API} to accomplish text classification and translation tasks
 \item Developed prototype text classification model using \textbf{Keras}
 
-\end{itemize}
+\end{experiencelist}
 
 \vspace{6pt}
 
-\textbf{Software Trainee}
+Software Trainee
 
 Jul 2022 -- Sep 2022
 
-\begin{itemize}[leftmargin=*]
+\begin{experiencelist}
 
-\item Received training to develop fullstack application using \textbf{PostgreSQL, ExpressJS, AngularJS, NodeJS}
+\item Received training to develop fullstack application using \textbf{PostgreSQL,\\ ExpressJS, AngularJS, NodeJS}
 
-\end{itemize}
+\end{experiencelist}
 
 \end{minipage}
 
