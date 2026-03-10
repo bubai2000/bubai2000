@@ -22,11 +22,4 @@ Currently I am exploring <strong>Quantum Computing</strong> and it's application
 
 My updated resume: <a href="https://raw.githubusercontent.com/bubai2000/bubai2000/main/Resume/Resume.pdf">:page_facing_up:</a>
 
-My GitHub stats:
-
-![My Github 
-stats](https://github-stats-extended.vercel.app/api?username=bubai2000&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=default_repocard)
-
-![My GitHub Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=bubai2000&layout=compact&langs_count=10&theme=default_repocard)
-
 Want to connect? Drop an email at <a href="mailto:nayaksoumyadip@gmail.com">nayaksoumyadip@gmail.com</a>
