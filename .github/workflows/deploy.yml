@@ -3,6 +3,10 @@ name: Deploy README to Personal Website
 on:
   push:
     branches: [main]
+    paths:
+      - readme.md
+      - template.html
+      - .github/workflows/deploy.yml
 
 permissions:
   contents: read
@@ -21,7 +25,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc
-          pandoc readme.md -o index.html
+          pandoc readme.md -s --template=template.html -o index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

@@ -20,6 +20,6 @@ Currently I am exploring <strong>Quantum Computing</strong> and it's application
 
 <p> Also, I love to travel, socialize, eat a lot of food, and listen to music</p>
 
-My updated resume: <a href="https://raw.githubusercontent.com/bubai2000/bubai2000/main/Resume/Resume.pdf">:page_facing_up:</a>
+My updated resume: <a href="https://raw.githubusercontent.com/bubai2000/bubai2000/main/Resume/Resume.pdf">📄</a>
 
 Want to connect? Drop an email at <a href="mailto:nayaksoumyadip@gmail.com">nayaksoumyadip@gmail.com</a>
