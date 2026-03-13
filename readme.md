@@ -5,9 +5,8 @@ My name is <b>Soumyadip Nayak</b>. I completed my <b>B.Sc. (Hounours)</b> in <b>
 <p></p>
 Previously I have worked on: 
 <ul type="disc">
-<li><b>Full Stack Web Development(Next.js, ReactJS, Express.js, FastAPI)</b>  
+<li><b>Full Stack Web Development(Next.js, ReactJS, Express.js, FastAPI, PostgreSQL)</b>  
 <li><b>Web Scraping(Scrapy, Selenium, BeautifulSoup)</b>  
-<li><b>Database Management(PostgreSQL)</b>
 <li><b>Cloud Computing and DevOps(GCP, AWS, Firebase, Amplify, BitBucket)</b>
 <li><b>Linux Shell and Windows PowerShell Scripting</b>
 </ul>
@@ -22,4 +21,4 @@ Currently I am exploring <strong>Quantum Computing</strong> and it's application
 
 My updated resume: <a href="https://raw.githubusercontent.com/bubai2000/bubai2000/main/Resume/Resume.pdf">📄</a>
 
-Want to connect? Drop an email at <a href="mailto:nayaksoumyadip@gmail.com">nayaksoumyadip@gmail.com</a>
+Want to connect? Drop an email at <a href="mailto:nayaksoumyadip@gmail.com"><b>nayaksoumyadip@gmail.com</b></a> or ping me on <a href="https://discord.com/users/666002368122585134"><b>Discord</b></a>

@@ -3,6 +3,7 @@
 * texlive-basic
 * texlive-bin
 * texlive-fontsrecommended
+* texlive-fontsextra
 * texlive-langenglish
 * texlive-latex
 * texlive-latexextra
